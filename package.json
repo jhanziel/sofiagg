@@ -1,0 +1,28 @@
+{
+  "name": "SodiaGG",
+  "version": "0.0.1",
+  "description": "",
+  "main": "node server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "megadb": "3.4.0",
+    "weez": "^1.6.2"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
